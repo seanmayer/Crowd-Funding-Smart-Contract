@@ -1,4 +1,4 @@
-#Crowd Funding Contract
+Crowd Funding Contract
 
 - Admin starts campaign
 - Admin has can set a sepcific monetary goal and deadline
